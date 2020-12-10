@@ -59,7 +59,7 @@
   <script src="/Controllers/ajaxPost.js"></script>
   <script src="/Controllers/queryGet.js"></script>
   -->
-  <script src="Controllers/queryPOST.js"></script>
+  <script src="queryPOST.js"></script>
   <!--<script src="Controllers/queryGet.js"></script>-->
 </body>
 </html>
