@@ -1,5 +1,5 @@
 <?php
-include 'Models/ConnectDB.php';
+include 'ConnectDB.php';
 
 class Delete extends ConnectDB
 {
