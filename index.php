@@ -1,7 +1,7 @@
 <?php
 error_reporting(E_ALL);
 
-require_once 'Controllers/Controller.php';
+include 'Controller.php';
 //require_once 'backend/output.php';
 
 ?>
