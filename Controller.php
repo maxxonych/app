@@ -1,5 +1,5 @@
 <?php
-include 'Models/ConnectDB.php';
+include 'ConnectDB.php';
 
 error_reporting(E_ALL);
 
